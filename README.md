@@ -114,9 +114,9 @@ The report includes:
 
 ## 🧑‍🎓 Author
 
-**Your Name**  
-M.Tech – Computer Science / AI / Computer Vision  
-Your University Name
+**Aparajita Vaish**  
+M.Tech – Computer Science & Engg.
+IIITNR
 
 ---
 
