@@ -86,7 +86,7 @@ Upload cv_lab_3.ipynb to Google Colab
 
 
 4. Run all cells sequentially to view results.
-
+---
 
 **Report**
 
@@ -108,6 +108,7 @@ Observations
 
 Results
 
+---
 🎯 Results
 
 Blob regions were successfully detected using LoG
@@ -117,12 +118,13 @@ Harris corner detector accurately identified corner points
 Image pyramids demonstrated effective multi-scale representation
 
 Gabor filters extracted orientation-based texture features
-
+---
 🧑‍🎓 Author
+Aparajita Vaish
+M.Tech – Computer Science Engineering
+IIITNR
 
-Your Name
-M.Tech – Computer Science / AI / Computer Vision
-Your University Name
+--- 
 
 📚 References
 
