@@ -87,53 +87,42 @@ Upload cv_lab_3.ipynb to Google Colab
 
 4. Run all cells sequentially to view results.
 ---
-
-**Report**
+## 📄 Report
 
 The detailed lab report is available in the following formats:
 
-CV_Lab_3_Report.docx
-
-CV_Lab_3_Report.pdf
+- **CV_Lab_3_Report.docx**
+- **CV_Lab_3_Report.pdf**
 
 The report includes:
-
-Objective
-
-Theory
-
-Procedure
-
-Observations
-
-Results
+- Objective
+- Theory
+- Procedure
+- Observations
+- Results
 
 ---
-🎯 Results
 
-Blob regions were successfully detected using LoG
+## 🎯 Results
 
-Harris corner detector accurately identified corner points
+- Blob regions were successfully detected using **Laplacian of Gaussian (LoG)**
+- Harris corner detector accurately identified significant corner points
+- Image pyramids demonstrated effective **multi-scale image representation**
+- Gabor filters successfully extracted **orientation-based texture features**
 
-Image pyramids demonstrated effective multi-scale representation
-
-Gabor filters extracted orientation-based texture features
 ---
-🧑‍🎓 Author
-Aparajita Vaish
-M.Tech – Computer Science Engineering
-IIITNR
 
---- 
+## 🧑‍🎓 Author
 
-📚 References
+**Your Name**  
+M.Tech – Computer Science / AI / Computer Vision  
+Your University Name
 
-OpenCV Documentation – Blob Detection
+---
 
-OpenCV Documentation – Harris Corner Detection
+## 📚 References
 
-OpenCV Documentation – Image Pyramids
-
-scikit-image Documentation – Gabor Filters
-
-
+- OpenCV Documentation – Blob Detection  
+- OpenCV Documentation – Harris Corner Detection  
+- OpenCV Documentation – Image Pyramids  
+- scikit-image Documentation – Gabor Filters
